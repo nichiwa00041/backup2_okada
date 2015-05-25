@@ -2684,7 +2684,6 @@ public class MainActivity extends Activity {
         SampleClass[] array = new SampleClass[MAX_FOODS_CATEGORY];
 
         int[] intId;
-        //
 
         intId = new int[12];
 
